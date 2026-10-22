@@ -5,3 +5,5 @@ player_position = "CM"
 print(f"Player: {player_name}")
 print(f"Club: {player_club}")
 print(f"Position: {player_position}")
+player_age = 23
+print(f"Age: {player_age}")

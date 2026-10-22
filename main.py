@@ -1,9 +1,11 @@
-player_name = "Jude Bellingham"
-player_club = "Real Madrid"
-player_position = "CM"
+player_name = input("Enter player name: ")
+player_club = input("Enter club: ")
+player_position = input("Enter position: ")
+player_age = input("Enter age: ")
 
+print()
+print("Player Information")
 print(f"Player: {player_name}")
 print(f"Club: {player_club}")
 print(f"Position: {player_position}")
-player_age = 23
 print(f"Age: {player_age}")

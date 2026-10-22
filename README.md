@@ -16,3 +16,6 @@ A simple football player information program that displays a player's name, club
 - Add more player information
 - Allow users to enter their own player details
 - Practise user input and conditional statements
+## Branch Experiment
+
+I am learning how Git branches work.

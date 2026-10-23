@@ -19,3 +19,7 @@ A simple football player information program that displays a player's name, club
 ## Branch Experiment
 
 I am learning how Git branches work.
+## Future Improvements
+
+- Improve how player information is displayed.
+- Make the output easier to read.
